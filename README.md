@@ -3,7 +3,7 @@
 
 Im just a software enginering:
 
-- 🔭 I’m currently working on a Consultant IT as a Android Developer
+- 🔭 I’m currently working on a CIMB Niaga as a Android Developer
 - 🌱 I’m currently learning Kotlin Generic Programing
 - 💬 Ask me about Kotlin, Java and PHP
 
